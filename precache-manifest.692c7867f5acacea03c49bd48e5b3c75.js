@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f34ab605746472e04d3eeb1a67252950",
+    "revision": "ed176947cef15d395f66237aa33aca43",
     "url": "/React-skillhunt/index.html"
   },
   {
-    "revision": "04ac08d2ca58efbff955",
+    "revision": "30410348f6fce80962ef",
     "url": "/React-skillhunt/static/css/main.a5925e23.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/React-skillhunt/static/js/2.1850878b.chunk.js"
   },
   {
-    "revision": "04ac08d2ca58efbff955",
-    "url": "/React-skillhunt/static/js/main.a9e70d3c.chunk.js"
+    "revision": "30410348f6fce80962ef",
+    "url": "/React-skillhunt/static/js/main.dc729bdf.chunk.js"
   },
   {
     "revision": "494f0780fce7a83b282f",

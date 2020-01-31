@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/React-skillhunt/static/css/main.a5925e23.chunk.css",
-    "main.js": "/React-skillhunt/static/js/main.a9e70d3c.chunk.js",
-    "main.js.map": "/React-skillhunt/static/js/main.a9e70d3c.chunk.js.map",
+    "main.js": "/React-skillhunt/static/js/main.dc729bdf.chunk.js",
+    "main.js.map": "/React-skillhunt/static/js/main.dc729bdf.chunk.js.map",
     "runtime-main.js": "/React-skillhunt/static/js/runtime-main.19a0feab.js",
     "runtime-main.js.map": "/React-skillhunt/static/js/runtime-main.19a0feab.js.map",
     "static/js/2.1850878b.chunk.js": "/React-skillhunt/static/js/2.1850878b.chunk.js",
     "static/js/2.1850878b.chunk.js.map": "/React-skillhunt/static/js/2.1850878b.chunk.js.map",
     "index.html": "/React-skillhunt/index.html",
-    "precache-manifest.d76728d3131c568dd52ed9cc0e2beae5.js": "/React-skillhunt/precache-manifest.d76728d3131c568dd52ed9cc0e2beae5.js",
+    "precache-manifest.692c7867f5acacea03c49bd48e5b3c75.js": "/React-skillhunt/precache-manifest.692c7867f5acacea03c49bd48e5b3c75.js",
     "service-worker.js": "/React-skillhunt/service-worker.js",
     "static/css/main.a5925e23.chunk.css.map": "/React-skillhunt/static/css/main.a5925e23.chunk.css.map",
     "static/media/index.css": "/React-skillhunt/static/media/bg_2.36960386.png",
@@ -34,6 +34,6 @@
     "static/js/runtime-main.19a0feab.js",
     "static/js/2.1850878b.chunk.js",
     "static/css/main.a5925e23.chunk.css",
-    "static/js/main.a9e70d3c.chunk.js"
+    "static/js/main.dc729bdf.chunk.js"
   ]
 }
